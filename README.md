@@ -2,6 +2,9 @@
 Job Finder is an interactive web application allowing users to search for available jobs nearby, favorite jobs and receive personalized recommendations based on favorite history and location.
 
 
+![Xnip2021-03-10_12-05-58](https://user-images.githubusercontent.com/67806550/110668473-5884a700-8199-11eb-80fa-41e474cd3969.jpg
+
+
 Overview:
 
 Job Finder is an interact web application allowing users to register and search for available jobs nearby, favorite/unfavorite jobs, and receive recommendation
@@ -10,9 +13,6 @@ based on their favorite history and locations. There are many amazing and conven
 
 Front-end: HTML, CSS, Javacript(AJAX)
 Back-end: RESTful using Java Servlets, MySQL, Content-based Algorithm, GitHub Job API, MonkeyLearn Keyword Extraction API
-
-
-![Xnip2021-03-10_12-05-58](https://user-images.githubusercontent.com/67806550/110668391-430f7d00-8199-11eb-8341-f88e40eafb39.jpg)
 
 
 Key features of the application:
