@@ -1,5 +1,4 @@
 # JobFinder
-Job Finder is an interactive web application allowing users to search for available jobs nearby, favorite jobs and receive personalized recommendations based on favorite history and location.
 
 ![Xnip2021-03-10_12-05-58](https://user-images.githubusercontent.com/67806550/110668509-620e0f00-8199-11eb-9e40-2d9ebf2a74c9.jpg)
 
