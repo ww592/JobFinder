@@ -8,7 +8,7 @@
 
 Job Finder is an interact web application allowing users to register and search for available jobs nearby, favorite/unfavorite jobs, and receive recommendation
 based on their favorite history and locations. There are many amazing and convenient frameworks to use nowadays but it is very important to be able to write 
-"raw" code and understand the logic in the pure lanaguages. In this project:
+"raw" code and understand the logic in the pure lanaguages. In this application:
 
 • Front-end: HTML, CSS, Javacript(AJAX)
 • Back-end: RESTful using Java Servlets, MySQL, Content-based Algorithm, GitHub Job API, MonkeyLearn Keyword Extraction API
